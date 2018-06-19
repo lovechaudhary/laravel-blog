@@ -1,0 +1,30 @@
+.custom-del-but{
+    background:none!important;
+     border:none; 
+     padding:0!important;
+    
+    /*optional*/
+     color:#007bff;
+     text-decoration:none;
+     cursor:pointer;
+}
+
+.search-container{
+    min-height: 400px;
+    padding: 10px 0 10px 0;
+    text-align: justify;
+    box-shadow: 0 0 5px #EFEFEF;
+    border: 1px solid #EFEFEF;
+}
+
+.notification-numbers{
+    border: 1px solid #f00;
+    width: 17%;
+    text-align: center;
+    color: #fff;
+    background: #f00;
+    position: absolute;
+    top: -5px;
+    left: 89px;
+    opacity: 0.6;
+}
